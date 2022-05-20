@@ -206,12 +206,16 @@ namespace ConsolaQ
 
             Console.Title = "Ejercicio N° 7";
             char continuar = 's';
-            string nombre;
+            string nombre = string.Empty;
             string aux_Nombre = string.Empty;
-            string hora_Aux;
-            string antiguedad_Aux;
-            string totalXTrabajadorBruto_Aux;
-            string totalXTrabajadorNeto_Aux;
+            string hora_Aux = string.Empty; 
+            string antiguedad_Aux = string.Empty; 
+            string totalXTrabajadorBruto_Aux = string.Empty;
+            string totalXTrabajadorNeto_Aux = string.Empty;
+            string aux_hora = string.Empty;
+            string aux_antiguedad = string.Empty;
+            string aux_totalTrabajadoB = string.Empty;
+            string aux_totalTrabajadoN = string.Empty;
 
             do
             {
@@ -223,49 +227,95 @@ namespace ConsolaQ
                 int antiguedad = int.Parse((string)Console.ReadLine());
                 Console.Write("Ingrese la cantidad de horas trabajadas: ");
                 int cantidadDeHoras = int.Parse((string)Console.ReadLine());
-                double totalXTrabajdorBruto = (hora * cantidadDeHoras) + (antiguedad * 150);
-                double totalXTrabajdorNeto = totalXTrabajdorBruto - (totalXTrabajdorBruto * 0.13);
-                hora_Aux = Convert.ToString(hora);
-                antiguedad_Aux = Convert.ToString(antiguedad);
-                totalXTrabajadorBruto_Aux = Convert.ToString(totalXTrabajdorBruto);
-                totalXTrabajadorNeto_Aux = Convert.ToString(totalXTrabajdorNeto);
+                double ntotalXTrabajdorBruto = (hora * cantidadDeHoras) + (antiguedad * 150);
+                double ntotalXTrabajdorNeto = ntotalXTrabajdorBruto - (ntotalXTrabajdorBruto * 0.13);
+                aux_hora= Convert.ToString(hora);
+                aux_antiguedad = Convert.ToString(antiguedad);
+                aux_totalTrabajadoB = Convert.ToString(ntotalXTrabajdorBruto);
+                aux_totalTrabajadoN = Convert.ToString(ntotalXTrabajdorNeto);
 
                 if (hora > 0 && antiguedad > 0 && cantidadDeHoras > 0 )
                 {
                     aux_Nombre += nombre + '|';
-                    hora_Aux += hora_Aux + '|';
-                    antiguedad_Aux += antiguedad_Aux + '|';
-                    totalXTrabajadorBruto_Aux += totalXTrabajadorBruto_Aux + '|';
-                    totalXTrabajadorNeto_Aux += totalXTrabajadorNeto_Aux + '|';
+                    hora_Aux += aux_hora + '|';
+                    antiguedad_Aux += aux_antiguedad + '|';
+                    totalXTrabajadorBruto_Aux += aux_totalTrabajadoB + '|';
+                    totalXTrabajadorNeto_Aux += aux_totalTrabajadoN + '|';
                 }
                 else
                     break;
 
                 Console.Write("Desea continuar? Pulse \'s' o pulse \'n' para salir: ");
                 continuar = char.Parse(Console.ReadLine());
-
+                Console.ReadKey(true);
+                Console.Clear();
             } while (continuar == 's');
            
             nombre = string.Empty;
-            string h;
-            string h1;
-            string h2;
-            string h3;
-            string h4;
+            aux_hora = string.Empty;
+            aux_antiguedad = string.Empty;
+            aux_totalTrabajadoB = string.Empty;
+            aux_totalTrabajadoN = string.Empty;
+            int k = 0;
+            int l = 0;
+            int m = 0;
+            int ñ = 0;
                        
-            for (int letra = 0; letra != aux_Nombre.Length; letra++)
+            for (int letra = 0; letra < aux_Nombre.Length; letra++)
             {
                 if (aux_Nombre[letra] == '|')
                 {
-                    Console.Write("Empleado : {0}", nombre);
-                    nombre = "";
+                    Console.WriteLine("Empleado : {0}", nombre);
+                    for(int i = k; i < antiguedad_Aux.Length; i++)
+                    {
+                        if (antiguedad_Aux[i] == '|')
+                        {
+                            Console.WriteLine("Antiguedad : {0}", aux_antiguedad);
+                            for (int j = l; j < hora_Aux.Length; j++)
+                            {
+                                if (hora_Aux[j] == '|')
+                                {
+                                    Console.WriteLine("Hora : {0}", aux_hora);
+                                    for(int y = m; y < totalXTrabajadorBruto_Aux.Length; y++)
+                                    {
+                                        if (totalXTrabajadorBruto_Aux[y] == '|')
+                                        {
+                                            Console.WriteLine("Total Bruto : {0}", aux_totalTrabajadoB);
+                                            for (int x = ñ; x < totalXTrabajadorNeto_Aux.Length; x++)
+                                            {
+                                                if(totalXTrabajadorNeto_Aux[x] == '|')
+                                                {
+                                                    Console.WriteLine("Total Neto : {0}", aux_totalTrabajadoN);
+                                                    aux_totalTrabajadoN = string.Empty;
+                                                    ñ = x + 1;
+                                                    break;
+                                                }
+                                                aux_totalTrabajadoN += Convert.ToString(totalXTrabajadorNeto_Aux[x]);
+                                            }
+                                            aux_totalTrabajadoB = string.Empty;
+                                            m = y + 1;
+                                            break;
+                                        }
+                                        aux_totalTrabajadoB += Convert.ToString(totalXTrabajadorBruto_Aux[y]);
+                                    }
+                                    aux_hora = string.Empty;
+                                    l = j + 1;
+                                    break;
+                                }
+                                aux_hora += Convert.ToString(hora_Aux[j]);
+                            }
+                            aux_antiguedad = string.Empty;
+                            k = i + 1;
+                            break;
+                        }
+                        aux_antiguedad += Convert.ToString(antiguedad_Aux[i]);
+                    }
+                    nombre = string.Empty;
                     continue;
                 }
                 nombre += Convert.ToString(aux_Nombre[letra]);   
             }
-            
-
-
+            Console.ReadKey(true);
         }
     }
 }
