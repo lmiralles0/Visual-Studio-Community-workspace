@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleQ/1.0.0": {
+        "dependencies": {
+          "Bibliotecas_Ejercicios": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleQ.dll": {}
+        }
+      },
+      "Bibliotecas_Ejercicios/1.0.0": {
+        "runtime": {
+          "Bibliotecas_Ejercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bibliotecas_Ejercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

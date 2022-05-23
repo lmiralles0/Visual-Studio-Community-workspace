@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Bibliotecas_Ejercicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Bibliotecas_Ejercicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bibliotecas_Ejercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bibliotecas_Ejercicios/1.0.0": {
+      "type": "project",
+      "path": "../Bibliotecas_Ejercicios/Bibliotecas_Ejercicios.csproj",
+      "msbuildProject": "../Bibliotecas_Ejercicios/Bibliotecas_Ejercicios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Bibliotecas_Ejercicios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MCvitani\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\ConsoleQ\\ConsoleQ.csproj",
+      "projectName": "ConsoleQ",
+      "projectPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\ConsoleQ\\ConsoleQ.csproj",
+      "packagesPath": "C:\\Users\\MCvitani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\ConsoleQ\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MCvitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj": {
+              "projectPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

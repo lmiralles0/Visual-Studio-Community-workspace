@@ -1,0 +1,12 @@
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\bin\Debug\net5.0\Bibliotecas_Ejercicios.deps.json
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\bin\Debug\net5.0\Bibliotecas_Ejercicios.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\bin\Debug\net5.0\Bibliotecas_Ejercicios.pdb
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.csproj.AssemblyReference.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.AssemblyInfo.cs
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\refint\Bibliotecas_Ejercicios.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\Bibliotecas_Ejercicios.pdb
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_2\Bibliotecas_Ejercicios\obj\Debug\net5.0\ref\Bibliotecas_Ejercicios.dll
