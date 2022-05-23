@@ -14,3 +14,19 @@ C:\Users\Luciano Miralles\Desktop\Programacion\Visual Studio Community-workspace
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual Studio Community-workspace\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.pdb
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual Studio Community-workspace\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.genruntimeconfig.cache
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual Studio Community-workspace\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ref\ConsolaQ.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.exe
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.deps.json
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.runtimeconfig.json
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.runtimeconfig.dev.json
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\bin\Debug\net5.0\ConsolaQ.pdb
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.csproj.AssemblyReference.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.AssemblyInfoInputs.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.AssemblyInfo.cs
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.csproj.CoreCompileInputs.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\refint\ConsolaQ.dll
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.pdb
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ConsolaQ.genruntimeconfig.cache
+C:\Users\MCvitani\Desktop\Visual-Studio-Community-workspace-master\Ejercicios_1\ConsolaQ\obj\Debug\net5.0\ref\ConsolaQ.dll

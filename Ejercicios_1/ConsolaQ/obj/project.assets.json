@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\": {}
+    "C:\\Users\\MCvitani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_1\\ConsolaQ\\ConsolaQ.csproj",
+      "projectUniqueName": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_1\\ConsolaQ\\ConsolaQ.csproj",
       "projectName": "ConsolaQ",
-      "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_1\\ConsolaQ\\ConsolaQ.csproj",
-      "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_1\\ConsolaQ\\obj\\",
+      "projectPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_1\\ConsolaQ\\ConsolaQ.csproj",
+      "packagesPath": "C:\\Users\\MCvitani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_1\\ConsolaQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MCvitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

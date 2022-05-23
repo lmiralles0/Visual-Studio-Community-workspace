@@ -5,7 +5,7 @@ namespace ConsolaQ
     internal class Program
     {
         static void Main(string[] args)
-        {/*
+        {
             Console.Title = "Ejercicio N° 1";
             int[] IntArray = new int[5];
             string aux;
@@ -202,7 +202,7 @@ namespace ConsolaQ
             
             Console.ReadKey(false);
             Console.Clear();
-            */
+            
 
             Console.Title = "Ejercicio N° 7";
             char continuar = 's';
