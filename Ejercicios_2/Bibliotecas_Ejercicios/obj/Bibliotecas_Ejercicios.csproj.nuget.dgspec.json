@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj": {}
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj": {
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj",
         "projectName": "Bibliotecas_Ejercicios",
-        "projectPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj",
-        "packagesPath": "C:\\Users\\MCvitani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_2\\Bibliotecas_Ejercicios\\obj\\",
+        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_2\\Bibliotecas_Ejercicios\\Bibliotecas_Ejercicios.csproj",
+        "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_2\\Bibliotecas_Ejercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MCvitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

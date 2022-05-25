@@ -57,6 +57,39 @@ namespace ConsoleQ
             Console.Clear();
 
             Console.Title = "Ejercicio 3";
+           
+
+            Console.Write("Ingrese un numero Decimal a convertir en Binario: ");
+            int decimales = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese un numero Binario a convertir en Decimal: ");
+            int binarios = int.Parse(Console.ReadLine()); 
+
+            Console.WriteLine("Decimal {0}      Binario {1}", decimales, Conversor.ConvertirDecimelABinario(decimales));
+            Console.WriteLine("Binario {0}      Decimal {1}", binarios, Conversor.ConvertirBinarioADecimal(binarios));
+            Console.ReadKey();
+            Console.Clear();
+
+
+            
+            Console.Title = "Ejercicios 4";
+
+            do
+            {
+                Console.Write("Ingrese la operacion a realizar: ");
+                char operacion = char.Parse(Console.ReadLine());
+                Console.Write("Ingrese el primero operando: ");
+                double operando_1 = double.Parse(Console.ReadLine());
+                Console.Write("Ingrese el segundo operando: ");
+                double operando_2 = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("{0} {1} {2} = {3}", operando_1, operacion, operando_2,Calculadora.Calcular(operando_1,operando_2, operacion));
+
+                Console.WriteLine("Desea continuar S/N");
+                respuesta = Console.ReadLine();
+
+                Console.WriteLine("\n" +
+                    "\n");
+            } while (Validador.ValidarRespuesta(respuesta));
 
         }
     }
