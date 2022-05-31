@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Bibliotecas_Ejercicios
 {
@@ -103,5 +104,16 @@ namespace Bibliotecas_Ejercicios
                 return true;
             }
         }
+
+        public static string Tablas (int numero)
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            for (int i = 1; i < 10; i++)
+            {
+                stringBuilder.Append($"{numero} x {i} = {numero*i} \n");
+            }
+            return stringBuilder.ToString();
+        }
     }
+
 }

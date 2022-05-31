@@ -71,7 +71,7 @@ namespace ConsoleQ
 
 
             
-            Console.Title = "Ejercicios 4";
+            Console.Title = "Ejercicio 4";
 
             do
             {
@@ -90,6 +90,21 @@ namespace ConsoleQ
                 Console.WriteLine("\n" +
                     "\n");
             } while (Validador.ValidarRespuesta(respuesta));
+
+            Console.ReadKey();
+            Console.Clear();
+           
+
+            Console.Title = "Ejercicio 5";
+
+            Console.Write("Ingrese un numero para obtener su tabla de multiplicacion: ");
+            int buffer = int.Parse(Console.ReadLine());
+            if (Validador.Validar(buffer, 0, int.MaxValue))
+            {
+                Console.WriteLine(Calculadora.Tablas(buffer));
+            }
+            Console.ReadKey();
+            Console.Clear();    
 
         }
     }
