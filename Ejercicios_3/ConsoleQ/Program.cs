@@ -7,12 +7,10 @@ namespace ConsoleQ
     {
         static void Main(string[] args)
         {
-            Cuentas a = new Cuentas("Lu1ciano Miralles", 5000);
-
-            Console.WriteLine(a.titular);
+            Cuentas a = new Cuentas("Luciano Miralles", 5000);
+            
+            Console.WriteLine(a.GetTitular());
             Console.ReadKey();
-
-
             
         }
     }

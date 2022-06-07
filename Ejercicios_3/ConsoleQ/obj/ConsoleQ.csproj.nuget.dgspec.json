@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj": {}
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj": {
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj",
         "projectName": "ConsoleQ",
-        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj",
+        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\ConsoleQ\\ConsoleQ.csproj",
         "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\ConsoleQ\\obj\\",
+        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\ConsoleQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj": {
-                "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj"
+              "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj": {
+                "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj": {
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
         "projectName": "Objects",
-        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
+        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
         "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\obj\\",
+        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",

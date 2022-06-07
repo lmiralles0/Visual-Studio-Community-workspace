@@ -5,7 +5,7 @@ namespace Objects
 {
     public class Cuentas
     {
-        public string titular;
+        private string titular;
         private float cantidad;
 
 
@@ -18,9 +18,15 @@ namespace Objects
 
         private void SetTitular(string titular)
         {
-            if (!(string.IsNullOrEmpty(titular)) || EsString(titular))
+            if (!(string.IsNullOrEmpty(titular)) && EsString(titular))
                 this.titular = titular;
         }
+
+        public string GetTitular ()
+        {
+            return this.titular;
+        }
+
 
         private void SetCantidad(float cantidad)
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
       "projectName": "Objects",
-      "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
+      "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\Objects.csproj",
       "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual Studio Community-workspace\\Ejercicios_3\\Objects\\obj\\",
+      "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_3\\Objects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",
