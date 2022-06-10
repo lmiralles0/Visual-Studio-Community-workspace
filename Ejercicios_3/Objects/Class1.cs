@@ -6,14 +6,20 @@ namespace Objects
     public class Cuentas
     {
         private string titular;
-        private float cantidad;
+        private decimal cantidad;
 
 
 
-        public Cuentas(string titular, float cantidad)
+        public Cuentas()
         {
-            this.SetTitular(titular);
-            this.SetCantidad(cantidad);
+            titular = "";
+            cantidad = 0;
+        }
+
+        public Cuentas(string titular, decimal cantidad): this()
+        {
+            SetTitular(titular);
+            SetCantidad(cantidad);
         }
 
         private void SetTitular(string titular)
@@ -22,17 +28,27 @@ namespace Objects
                 this.titular = titular;
         }
 
-        public string GetTitular ()
-        {
-            return this.titular;
-        }
+        public string GetTitular(Cuentas cuenta)
+        { return titular; }
 
 
-        private void SetCantidad(float cantidad)
+        private void SetCantidad(decimal cantidad)
         {
             if (cantidad > 0)
                 this.cantidad = cantidad;
         }
+
+        public decimal GetCantidad(Cuentas cuenta)
+        { return cantidad; }
+
+
+        public string Mostrar(Cuentas cuenta)
+        {
+            return $"Titular: {GetTitular(cuenta)}, Saldo: ${GetCantidad(cuenta).ToString()}";
+        }
+
+
+        #region Validador
 
         private static bool EsString(string buffer)
         {
@@ -48,6 +64,9 @@ namespace Objects
             }
             return respuesta;
         }
+
+        #endregion
+
 
     }
 }
