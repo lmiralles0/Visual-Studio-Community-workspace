@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rCWVqh/44rr1oculWji5yU4tJuEPQq3o70A571t9/6OGVWpin+OS2VSdbBQmQEU4JyLYEziWEJUGqqFOX6aM2Q==",
+  "dgSpecHash": "fiHQtFuUltOLamWNd7EJLAbli268gcVXrUql3HW30h84A3naB1IGc19qN1rrJaoh0K9gEjdaZXTx/gEylGxKXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MCvitani\\Desktop\\Visual-Studio-Community-workspace-master\\Ejercicios_4\\Form1\\Form1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicios_4\\Form1\\Form1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.25\\microsoft.windows.sdk.net.ref.10.0.17763.25.nupkg.sha512"
+  ],
   "logs": []
 }
