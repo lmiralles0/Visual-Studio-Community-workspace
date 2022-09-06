@@ -32,7 +32,7 @@ namespace ConsoleQ
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Estante ubicado en:  {e._ubicacionEstante}");
-            for(int i = 0; i < e._productos.Length - 1; i++)
+            for(int i = 0; i < e._productos.Length; i++)
             {
                 if (e._productos[i] is not null)
                 {
@@ -63,7 +63,7 @@ namespace ConsoleQ
         public static bool operator +(Estante e, Producto p)
         {
             bool result = false;
-            for(int i = 0; i <e._productos.Length -1;i++)
+            for(int i = 0; i <e._productos.Length;i++)
             {
                 if(e._productos[i] is not null)
                 {
