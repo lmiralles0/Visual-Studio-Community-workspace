@@ -11,7 +11,7 @@ namespace Consola
             /*double ;
             float ;
             decimal ;*/
-
+            Console.Beep(300, 400);
             Console.WriteLine();
             /// Enteras
             short numChico = 32000; //ushort

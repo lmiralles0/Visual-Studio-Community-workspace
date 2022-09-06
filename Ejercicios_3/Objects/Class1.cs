@@ -18,34 +18,39 @@ namespace Objects
 
         public Cuentas(string titular, decimal cantidad): this()
         {
-            SetTitular(titular);
-            SetCantidad(cantidad);
-        }
-
-        private void SetTitular(string titular)
-        {
-            if (!(string.IsNullOrEmpty(titular)) && EsString(titular))
-                this.titular = titular;
+            this.titular = titular;
+            this.cantidad = cantidad;
         }
 
         public string GetTitular(Cuentas cuenta)
-        { return titular; }
+        { return this.titular; }
 
-
-        private void SetCantidad(decimal cantidad)
-        {
-            if (cantidad > 0)
-                this.cantidad = cantidad;
-        }
 
         public decimal GetCantidad(Cuentas cuenta)
-        { return cantidad; }
+        { return this.cantidad; }
 
 
         public string Mostrar(Cuentas cuenta)
         {
-            return $"Titular: {GetTitular(cuenta)}, Saldo: ${GetCantidad(cuenta).ToString()}";
+            return $"Titular: {GetTitular(cuenta)}, Saldo: ${GetCantidad(cuenta)}";
         }
+
+        public void Ingresar(decimal cantidad)
+        {
+            if(cantidad > 0)
+            {
+                this.cantidad += cantidad;
+            }
+        }
+
+        public void Retirar(decimal cantidad)
+        {
+            if (cantidad > 0)
+            {
+                this.cantidad -= cantidad; 
+            }
+        }
+           
 
 
         #region Validador

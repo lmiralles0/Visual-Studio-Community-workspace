@@ -42,7 +42,6 @@
             this.box_Nombre.Name = "box_Nombre";
             this.box_Nombre.Size = new System.Drawing.Size(154, 21);
             this.box_Nombre.TabIndex = 1;
-            
             // 
             // box_Apellido
             // 
@@ -81,23 +80,24 @@
             this.boton_Saludo.TabIndex = 9;
             this.boton_Saludo.Text = "Saludar";
             this.boton_Saludo.UseVisualStyleBackColor = false;
-            this.boton_Saludo.Click += new System.EventHandler(this.boton_Saludo_Click);
+            this.boton_Saludo.Click += new System.EventHandler(this.boton_Saludo_Click_1);
             // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.ClientSize = new System.Drawing.Size(649, 218);
             this.Controls.Add(this.boton_Saludo);
             this.Controls.Add(this.letra_Apellido);
             this.Controls.Add(this.letra_Nombre);
             this.Controls.Add(this.box_Apellido);
             this.Controls.Add(this.box_Nombre);
+            this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.RightToLeftLayout = true;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Forms!";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -109,6 +109,6 @@
         private System.Windows.Forms.TextBox box_Apellido;
         private System.Windows.Forms.Label letra_Nombre;
         private System.Windows.Forms.Label letra_Apellido;
-        private System.Windows.Forms.Button boton_Saludo;
+        public System.Windows.Forms.Button boton_Saludo;
     }
 }

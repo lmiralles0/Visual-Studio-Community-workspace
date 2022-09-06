@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Form1", "Form1\Form1.csproj
 		{F7A056B7-8E3E-4DBA-9BC8-0B9591329635} = {F7A056B7-8E3E-4DBA-9BC8-0B9591329635}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form2", "Form2\Form2.csproj", "{F7A056B7-8E3E-4DBA-9BC8-0B9591329635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Form2", "Form2\Form2.csproj", "{F7A056B7-8E3E-4DBA-9BC8-0B9591329635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
