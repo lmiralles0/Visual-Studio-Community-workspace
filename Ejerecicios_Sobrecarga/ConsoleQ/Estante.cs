@@ -54,8 +54,9 @@ namespace ConsoleQ
             {
                 if(e._productos[i] == p)
                 {
-                    return aux;
+                    continue;
                 }
+                aux._productos[i] = e._productos[i];
             }
             return aux;
         }
