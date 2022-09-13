@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "m8jJx9n0T9RfPeXmTrySsida+049/mfATnxjnJ2sbMFhD4T+SlCNvYEsvF18rbvVCbpRWkMo5fm21wWrPD4QGw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicio_Colecciones\\ConsoleQ\\ConsoleQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "m8jJx9n0T9RfPeXmTrySsida+049/mfATnxjnJ2sbMFhD4T+SlCNvYEsvF18rbvVCbpRWkMo5fm21wWrPD4QGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Ejercicio_Colecciones\\ConsoleQ\\ConsoleQ.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5b63a2e02c465abaafd091827697c2e99c3842c4
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v5.0",
@@ -8,4 +9,16 @@
     ".NETCoreApp,Version=v5.0": {}
   },
   "libraries": {}
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {}
+  },
+  "libraries": {}
+>>>>>>> 5b63a2e02c465abaafd091827697c2e99c3842c4
 }
