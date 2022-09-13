@@ -64,7 +64,11 @@ namespace ConsoleQ
         public static bool operator +(Estante e, Producto p)
         {
             bool result = false;
+<<<<<<< HEAD
             for (int i = 0; i < e._productos.Length; i++)
+=======
+            for(int i = 0; i <e._productos.Length;i++)
+>>>>>>> a0b27b682e7dac9c48b4f1e2d3ce6c0dc2ff1471
             {
                 if (e._productos[i] is not null)
                 {
