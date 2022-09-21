@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleQ", "ConsoleQ\ConsoleQ.csproj", "{C97DD98D-19C5-4775-B864-1713EB01B11E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQ", "ConsoleQ\ConsoleQ.csproj", "{C97DD98D-19C5-4775-B864-1713EB01B11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equipo", "Equipo\Equipo.csproj", "{B9CF49A9-A811-4187-A7B8-221012A59383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugador", "Jugador\Jugador.csproj", "{0FCE6995-A93B-468F-8498-B0E81AB35FCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C97DD98D-19C5-4775-B864-1713EB01B11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C97DD98D-19C5-4775-B864-1713EB01B11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C97DD98D-19C5-4775-B864-1713EB01B11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CF49A9-A811-4187-A7B8-221012A59383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CF49A9-A811-4187-A7B8-221012A59383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CF49A9-A811-4187-A7B8-221012A59383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CF49A9-A811-4187-A7B8-221012A59383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCE6995-A93B-468F-8498-B0E81AB35FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE6995-A93B-468F-8498-B0E81AB35FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE6995-A93B-468F-8498-B0E81AB35FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCE6995-A93B-468F-8498-B0E81AB35FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
