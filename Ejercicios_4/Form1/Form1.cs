@@ -21,9 +21,11 @@ namespace Form1
         private void boton_Saludo_Click_1(object sender, EventArgs e)
         {
             Form2 boton = new Form2();
-            this.Hide();
+            Hide();
             boton.saludo_nya.Text += (this.box_Nombre.Text + " " + this.box_Apellido.Text);
             boton.ShowDialog();
+            this.ShowDialog();
+            
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
@@ -31,6 +33,7 @@ namespace Form1
             if(MessageBox.Show("Desea salir?", "Cerrar", MessageBoxButtons.YesNo, MessageBoxIcon.Hand) == DialogResult.No)
             {
                 e.Cancel = true;
+                this.Close();
             }
         }
     }

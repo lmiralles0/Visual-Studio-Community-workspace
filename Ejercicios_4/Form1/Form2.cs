@@ -18,11 +18,12 @@ namespace Form1
             
         }
 
-        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
+        public void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (MessageBox.Show("Desea salir?", "Cerrar", MessageBoxButtons.YesNo, MessageBoxIcon.Hand) == DialogResult.No)
             {
                 e.Cancel = true;
+                Close();
             }
         }
 
