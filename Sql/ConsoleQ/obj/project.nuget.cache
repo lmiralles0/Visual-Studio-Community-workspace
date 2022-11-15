@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLZqCmm/Tis0kloDED0KAx5ADl60iQ3NJ8I+zkKL2I1YqFqe/syaJO21XPiGfMfrXpwX9LXhbA+R//siAgGi4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\Sql\\ConsoleQ\\ConsoleQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Luciano Miralles\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
