@@ -1,0 +1,14 @@
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\bin\Debug\net6.0\CLASE 1 28-8-23.exe
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\bin\Debug\net6.0\CLASE 1 28-8-23.deps.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\bin\Debug\net6.0\CLASE 1 28-8-23.runtimeconfig.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\bin\Debug\net6.0\CLASE 1 28-8-23.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\bin\Debug\net6.0\CLASE 1 28-8-23.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.AssemblyInfoInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.AssemblyInfo.cs
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\refint\CLASE 1 28-8-23.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\CLASE 1 28-8-23.genruntimeconfig.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\obj\Debug\net6.0\ref\CLASE 1 28-8-23.dll
