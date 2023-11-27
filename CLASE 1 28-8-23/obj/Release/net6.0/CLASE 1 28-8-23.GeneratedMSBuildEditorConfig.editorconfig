@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CLASE_1_28_8_23
 build_property.ProjectDir = C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE 1 28-8-23\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

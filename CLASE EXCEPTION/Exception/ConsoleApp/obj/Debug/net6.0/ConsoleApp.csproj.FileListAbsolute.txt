@@ -1,0 +1,15 @@
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.sourcelink.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\CLASE EXCEPTION\EXCEPTION\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
