@@ -11,11 +11,27 @@
             Console.WriteLine(path);
             Console.WriteLine(Directory.Exists(path));
 
-            if(!Directory.Exists(path) ) 
+            Directory.CreateDirectory(path);
+            path += "ArchivoPrueba.txt";
+            
+            if(Directory.Exists(path))
             {
-                Directory.CreateDirectory(path);
+                using (StreamWriter sw = new StreamWriter(path))
+                {
+                    sw.WriteLine("LINEA 1");
+                    sw.Close();
+                }
             }
-            Console.ReadKey();
+
+            if (Directory.Exists(path)) 
+            {
+                using(StreamWriter sw = new StreamWriter(path, true))
+                {
+                    sw.Write("LINEA 2");
+                    sw.Close();   
+                }
+            }
+            //Console.ReadKey();
             
         }
     }

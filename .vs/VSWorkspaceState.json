@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CLASE ARCHIVOS",
+    "\\CLASE ARCHIVOS\\Archivos",
+    "\\CLASE ARCHIVOS\\Archivos\\ConsoleApp"
   ],
-  "SelectedNode": "\\CLASE ARCHIVOS",
+  "SelectedNode": "\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

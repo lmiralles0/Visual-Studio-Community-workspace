@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MCvitani\\.nuget\\packages\\": {}
+    "C:\\Users\\ludmi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MCvitani\\Desktop\\Pro\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\MCvitani\\Desktop\\Pro\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\MCvitani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MCvitani\\Desktop\\Pro\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ludmi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MCvitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ludmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
