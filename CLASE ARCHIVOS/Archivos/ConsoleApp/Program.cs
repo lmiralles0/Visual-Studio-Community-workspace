@@ -7,31 +7,65 @@
             Console.WriteLine(Environment.GetFolderPath(Environment.SpecialFolder.CommonProgramFiles));
             string path = $"{ Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}";
             path += @"\Directorio\";
+            //or path += "\\Directorio\\";
 
             Console.WriteLine(path);
             Console.WriteLine(Directory.Exists(path));
 
-            Directory.CreateDirectory(path);
-            path += "ArchivoPrueba.txt";
             
-            if(Directory.Exists(path))
+            if(!Directory.Exists(path))
             {
-                using (StreamWriter sw = new StreamWriter(path))
+                Directory.CreateDirectory(path);
+                
+            }
+            string pathArchivo = path + "ArchivoPrueba.txt";
+            
+            if(Directory.Exists(path)) 
+            {
+                using(StreamWriter sw = new StreamWriter(pathArchivo)) 
                 {
                     sw.WriteLine("LINEA 1");
-                    sw.Close();
+                }
+
+            }
+
+            if(Directory.Exists(path)) 
+            {
+                using(StreamWriter sw = new StreamWriter(pathArchivo, true))
+                {
+                    sw.Write("LINEA 2");
                 }
             }
 
-            if (Directory.Exists(path)) 
-            {
-                using(StreamWriter sw = new StreamWriter(path, true))
+            string pathArchivo2 = string.Empty;
+
+            if (Directory.Exists(path))
+            { 
+                string[] archivosEnDirectorio = Directory.GetFiles(path);
+                foreach (string pathA in archivosEnDirectorio)
                 {
-                    sw.Write("LINEA 2");
-                    sw.Close();   
+                    Console.WriteLine($"{pathA}");
+                     if (pathA.Contains("ArchivoPrueba.txt"))
+                     {
+                        pathArchivo2 = pathA;
+                        break;
+                     }  
                 }
             }
-            //Console.ReadKey();
+
+            if(pathArchivo2 != string.Empty)
+            {
+                using (StreamReader sr = new StreamReader(pathArchivo2))
+                {
+                    string linea;
+                    while((linea = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(linea);
+                    }
+                }
+            }
+
+            Console.ReadKey();
             
         }
     }

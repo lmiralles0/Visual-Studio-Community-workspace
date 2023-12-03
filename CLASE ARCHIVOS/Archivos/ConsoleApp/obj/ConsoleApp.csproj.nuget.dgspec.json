@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\ludmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludmi\\OneDrive\\Escritorio\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Luciano Miralles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luciano Miralles\\Desktop\\Programacion\\Visual-Studio-Community-workspace\\CLASE ARCHIVOS\\Archivos\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ludmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luciano Miralles\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
