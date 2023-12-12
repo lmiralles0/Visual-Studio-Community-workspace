@@ -98,8 +98,10 @@ namespace Biblioteca
             List<PersonaDTO> personas = new List<PersonaDTO>();
             try
             {
+                //command.Parameters.Clear();
                 connection.Open();
                 command.CommandText = $"SELECT * FROM Personas";
+                //command.Parameters = AddWithValues();
 
                 using (SqlDataReader reader = command.ExecuteReader())
                 {
