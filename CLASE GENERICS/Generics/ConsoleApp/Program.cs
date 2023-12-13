@@ -5,7 +5,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Lista<short> lista = new Lista<short>();
+
+
+
 
             
 
