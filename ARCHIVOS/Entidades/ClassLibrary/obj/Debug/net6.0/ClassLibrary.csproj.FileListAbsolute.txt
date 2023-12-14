@@ -1,0 +1,12 @@
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.sourcelink.json
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

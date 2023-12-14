@@ -83,7 +83,7 @@ namespace Archivos
         }
 
 
-        public static void Escribir_XML<T>(string path, T miObject)
+        public static void Escribir_XML(string path, T miObject)
         {
             using(StreamWriter sw = new StreamWriter(path))
             {
