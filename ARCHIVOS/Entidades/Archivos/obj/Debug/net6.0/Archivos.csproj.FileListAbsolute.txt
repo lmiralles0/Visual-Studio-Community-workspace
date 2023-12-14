@@ -10,3 +10,15 @@ C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\refint\Archivos.dll
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.pdb
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\ref\Archivos.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\bin\Debug\net6.0\Archivos.deps.json
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\bin\Debug\net6.0\Archivos.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\bin\Debug\net6.0\Archivos.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.AssemblyInfo.cs
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.sourcelink.json
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\refint\Archivos.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\Archivos.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\Archivos\obj\Debug\net6.0\ref\Archivos.dll

@@ -8,6 +8,10 @@
         {
             nombre = string.Empty;
         }
+        public Persona(string nombre)
+        {
+            this.nombre = nombre;
+        }
 
 
 

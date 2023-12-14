@@ -1,5 +1,8 @@
 ﻿using Archivos;
 using ClassLibrary;
+using System.Security.Cryptography.X509Certificates;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace ConsoleApp
 {
@@ -7,12 +10,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Persona pers = new Persona();
-            pers.Name = "Luciano";
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop); 
-            Archivos<Persona>.Escribir_XML(path,pers);
-            Console.WriteLine(path);    
-            Console.ReadKey();
+            string path = Directory.GetCurrentDirectory();
+            path += "\\persona.xml";
+            
+
         }
         
     }

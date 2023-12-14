@@ -2,6 +2,7 @@
 
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Xml;
 using System.Xml.Serialization;
 
 namespace Archivos
@@ -31,7 +32,7 @@ namespace Archivos
         }
 
 
-        public static T Leer_JSON<T>(string path)
+        public static T Leer_JSON(string path)
         {
             string jsonString = File.ReadAllText(path);
 
@@ -41,7 +42,7 @@ namespace Archivos
         }
 
 
-        public static T Leer_XML<T>(string path)
+        public static T Leer_XML(string path)
         {
             using(StreamReader sw = new StreamReader(path)) 
             {
@@ -72,7 +73,7 @@ namespace Archivos
         }
 
 
-        public static void Escribir_JSON<T>(string path, T miObject)
+        public static void Escribir_JSON(string path, T miObject)
         {
             JsonSerializerOptions opciones = new JsonSerializerOptions();
             opciones.WriteIndented = true;

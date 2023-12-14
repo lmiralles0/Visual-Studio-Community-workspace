@@ -19,3 +19,24 @@ C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ClassLibrary.dll
 C:\Users\Luciano Miralles\Desktop\Programacion\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\Archivos.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\Archivos.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.sourcelink.json
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\MCvitani\Desktop\Pro\Visual-Studio-Community-workspace\ARCHIVOS\Entidades\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
